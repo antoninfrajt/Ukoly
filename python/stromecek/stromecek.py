@@ -10,7 +10,7 @@ def stromek(vyska:int, sirka:int,vk:int):
     kmen(sirka,vyska,vk)
 vyska = int(input("zadejte vysku stromku:"))
 vysKmen = int(input("zadejte vysku kmene:"))
-sirka = int(input("zadejte sirku stromku:"))
+sirka = int(input("zadejte sirku kmene:"))
 stromek(vyska,sirka,vysKmen)
 
 
