@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 RLL
 
 AAA = (BBB, CCC)
@@ -7,14 +6,4 @@ CCC = (BBZ, GGG)
 DDA = (DDA, EEE)
 EEE = (BBZ, DDA)
 GGG = (GGG, GGG)
-=======
-RLL
-
-AAA = (BBB, CCC)
-BBB = (DDD, EEE)
-CCC = (BBZ, GGG)
-DDA = (DDA, EEE)
-EEE = (BBZ, DDA)
-GGG = (GGG, GGG)
->>>>>>> 5416915f6e236b2c4f9e3ce51dee2d4b630d547c
 BBZ = (BBZ, BBZ)
