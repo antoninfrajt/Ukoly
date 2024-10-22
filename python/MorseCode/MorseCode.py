@@ -9,12 +9,12 @@ def Preloz(t:str,l:list):
       for x in t:
             for y in l:
                   if x==y[0] or str.upper(x)==y[0]:
-                        PrelozenyText+=y[2:]+"//"
+                        PrelozenyText+=y[2:]+"/"
             if x==" ":
                   PrelozenyText+="/"
       print(PrelozenyText)
 ZapisAbecedu("MorseCode.txt",Abeceda)
-text:str = input("Zadejte prekladany text.")
+text:str = input("Zadejte prekladany text:\n")
 Preloz(text,Abeceda)
 
 

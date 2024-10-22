@@ -1,0 +1,9 @@
+RLL
+
+AAA = (BBB, CCC)
+BBB = (DDD, EEE)
+CCC = (BBZ, GGG)
+DDA = (DDA, EEE)
+EEE = (BBZ, DDA)
+GGG = (GGG, GGG)
+BBZ = (BBZ, BBZ)
