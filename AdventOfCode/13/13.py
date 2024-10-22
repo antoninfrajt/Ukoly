@@ -1,7 +1,7 @@
 from os.path import realpath, dirname, join
 def hor(g:list)->int:
     vys:int = 0
-    ref:bool == False
+    ref:bool = False
     for i in range(1,len(g)):
         if g[i-1][1] == g[i][1]:
             #print("zacinam")
