@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Ktere mesto je nejvetsi?;Brno;Praha;Olomouc;b
 Ktere mesto je stredni?;Brno;Praha;Olomouc;a
 Ktere mesto je nejmensi?;Brno;Praha;Olomouc;c
+=======
+Ktere mesto je nejvetsi?;Brno;Praha;Olomouc;b
+Ktere mesto je stredni?;Brno;Praha;Olomouc;a
+Ktere mesto je nejmensi?;Brno;Praha;Olomouc;c
+>>>>>>> 5416915f6e236b2c4f9e3ce51dee2d4b630d547c
