@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <iostream>
 #include <vector>
 #include <random>
@@ -114,7 +113,6 @@ int main()
     vector<vector<int>> vysledek = Operace(maticejedna,maticedva, op);
     VytiskniMatici(vysledek);
 }
-=======
 #include <iostream>
 #include <vector>
 #include <random>
@@ -230,4 +228,3 @@ int main()
     vector<vector<int>> vysledek = Operace(maticejedna,maticedva, op);
     VytiskniMatici(vysledek);
 }
->>>>>>> 5416915f6e236b2c4f9e3ce51dee2d4b630d547c

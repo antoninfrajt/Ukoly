@@ -1,0 +1,22 @@
+cout<<"Chcete sifrovat nebo desifrovat? (s/d)"<<endl;
+    cin>>ukol;
+    cout<<"Zadejte nazev souboru"<<endl;
+    cin>>soubor;
+    cout<<"typ sifry (c=ceasar,v=vigener,x=XOR)";
+    cin>>sifra;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
